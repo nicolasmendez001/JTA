@@ -1,0 +1,17 @@
+co\edu\uptc\sw2\transaccion\persistencia\entities\Tarjeta.class
+co\edu\uptc\sw2\transaccion\servicios\logica\exepctions\ManejoExcepciones.class
+co\edu\uptc\sw2\transaccion\servicios\logica\ProductoLogica.class
+co\edu\uptc\sw2\transaccion\persistencia\ProductoDao.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+co\edu\uptc\sw2\transaccion\persistencia\CompraDao.class
+co\edu\uptc\sw2\transaccion\servicios\CompraServicio.class
+co\edu\uptc\sw2\transaccion\persistencia\entities\Cliente_.class
+co\edu\uptc\sw2\transaccion\persistencia\entities\Cliente.class
+co\edu\uptc\sw2\transaccion\persistencia\entities\Compra_.class
+co\edu\uptc\sw2\transaccion\persistencia\entities\Producto_.class
+co\edu\uptc\sw2\transaccion\persistencia\entities\Tarjeta_.class
+co\edu\uptc\sw2\transaccion\persistencia\entities\Compra.class
+co\edu\uptc\sw2\transaccion\persistencia\entities\Producto.class
+co\edu\uptc\sw2\transaccion\servicios\logica\CompraLogica.class
+co\edu\uptc\sw2\transaccion\servicios\logica\exepctions\ExceptionMapper.class
+co\edu\uptc\sw2\transaccion\servicios\ProductoServicio.class
